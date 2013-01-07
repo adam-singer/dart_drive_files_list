@@ -1,0 +1,26 @@
+html{
+font:12px Arial, Helvetica, sans-serif;
+color:#333;
+padding:0;
+margin:0;}
+
+.listmenu ul {
+margin: 0 0 5px 0;
+padding: 0 0 2px 0;
+list-style-type: none;
+width:185px;}
+
+.listmenu li a {
+color: #333;
+display: block;
+border-left:3px solid #666;
+border-right:3px solid #666;
+height: 16px;
+padding: 4px 0 4px 14px;
+text-decoration: none;
+font-weight:bold;
+background-color:#fff;}
+
+.listmenu li a:hover {
+background-color: #666;
+color:#fff;}

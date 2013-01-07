@@ -1,0 +1,4 @@
+name:  dart_drive_files_list
+description:  A google drive file listing in dart
+dependencies:
+  js: any
